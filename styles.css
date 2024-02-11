@@ -1,0 +1,175 @@
+
+body {
+
+    background-image: url('web-background.jpg');
+    background-size: cover;
+    background-position: center;
+
+    #greeting {
+        font-family: Georgia, sans-serif;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }
+
+    #caption {
+        font-family: Georgia, sans-serif;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+
+    #welcomeParagraph {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 10px;
+        margin-left: 80px;
+        margin-right: 80px;
+        margin-bottom: 50px;
+    }
+
+    #accordionPanelsStayOpenExample {
+        font-family: Arial, sans-serif;
+        text-align: justify;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+
+    #panelsStayOpen-collapseOne {
+        font-family: Arial, sans-serif;
+        text-align: justify;
+    }
+
+    .accordion-body-child {
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    }
+
+    #panelsStayOpen-collapseTwo {
+        font-family: Arial, sans-serif;
+        text-align: justify;
+    }
+
+    #panelsStayOpen-collapseThree {
+        font-family: Arial, sans-serif;
+        text-align: justify;
+    }
+
+    .button-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    #get-to-know-me-better {
+        font-family: Arial, sans-serif;
+        text-align: left;
+        margin-top: 30px;
+        margin-left: 150px;
+        margin-right: 150px;
+        margin-bottom: 30px;
+    }
+
+    .mypicture {
+        display: block;
+        margin: auto;
+        margin-bottom: 20px;
+        width: 200px;
+        height: 290px;
+        border: 2px solid black;
+    }
+
+    .gameBasedLearningPicture12, .gameBasedLearningPicture34 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .gameBasedLearningPicture1, .gameBasedLearningPicture2, .gameBasedLearningPicture3, .gameBasedLearningPicture4 {
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 300px;
+        height: 200px;
+        border: 1px solid black;
+    }
+
+    .inquiryDiscoveryBasedLearningPicture12, .inquiryDiscoveryBasedLearningPicture34 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .inquiryDiscoveryBasedLearningPicture1, .inquiryDiscoveryBasedLearningPicture2, .inquiryDiscoveryBasedLearningPicture3, .inquiryDiscoveryBasedLearningPicture4 {
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 300px;
+        height: 200px;
+        border: 1px solid black;
+    }
+
+    .mathOlympiadPicture12 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .mathOlympiadTrainingPicture1, .mathOlympiadTrainingPicture2 {
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 300px;
+        height: 200px;
+        border: 1px solid black;
+    }
+
+    .mathQuizCompetitionPicture12 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .mathQuizCompetitionPicture1, .mathQuizCompetitionPicture2 {
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 300px;
+        height: 200px;
+        border: 1px solid black;
+    }
+
+    .webinarFlyerPicture12 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .webinarFlyerPicture1, .webinarFlyerPicture2 {
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 300px;
+        height: 300px;
+        border: 1px solid black;
+    }
+
+    .contactInformation {
+        font-family: Arial, sans-serif;
+        text-align: left;
+        margin-top: 10px;
+        margin-left: 80px;
+        margin-right: 80px;
+        margin-bottom: 10px;
+    }
+
+    #footer {
+        margin-bottom: 100px;
+    }
+}
+

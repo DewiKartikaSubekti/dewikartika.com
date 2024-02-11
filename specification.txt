@@ -1,0 +1,5 @@
+HTML Tags: <link>, <script>, <nav>, <a>, <div>, <h1>, <h2>, <h4>, <button>, <strong>, <img>, <span>, <p>, <ul>, <li>.
+
+CSS Properties: background-image, background-size, background-position, font-family, font-weight, text-align, margin-top, margin-bottom, margin-left, margin-right, display, justify-content, border, width, height.
+
+JavaScript is used in the code to enhance website interactivity, manage user actions such as button clicks, and activate Bootstrap components like buttons and accordions; while Bootstrap is used to enhance the visual appeal and functionality of the website, including responsive navigation, collapsible elements, accordion panels, and styled buttons.
